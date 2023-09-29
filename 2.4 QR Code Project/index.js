@@ -27,5 +27,5 @@ inquirer
       // Prompt couldn't be rendered in the current environment
     } else {
       // Something else went wrong
-    }v
+    }
   });
