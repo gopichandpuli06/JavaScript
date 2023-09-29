@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "qr code generator",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gopi Chand Puli",
+  "license": "ISC"
+}
